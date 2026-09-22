@@ -1,0 +1,6 @@
+{
+  "name": "Topper Math Hero",
+  "description": "Mobile-first learning adventure game from Nursery to Class 10 with 50+ levels, Maths, English, Science, Social Science (Assamese & English), real-time student activity tracking, and password-protected Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
