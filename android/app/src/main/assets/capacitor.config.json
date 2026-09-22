@@ -1,0 +1,9 @@
+{
+	"appId": "com.topper.mathhero",
+	"appName": "Topper Math Hero",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https"
+	}
+}
